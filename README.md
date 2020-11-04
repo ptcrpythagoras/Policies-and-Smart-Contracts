@@ -1,5 +1,4 @@
-# Policies-and-Smart-Contracts
-Build on pythagoras
+# Policies-and-Smart-Contracts - Build on pythagoras
 pythagoras provides you with the tools, documentation, and support to help you build your applications. 
 Develop privacy-preserving applications on the pythagoras.
 # Discret Language
